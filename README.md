@@ -19,6 +19,11 @@ The data includes:
 - Additional surcharges
 
 Since the dataset is extremely large, a **5% hourly stratified sample** was used for analysis to maintain representative patterns while reducing computational load.
+The dataset can be downloaded from the NYC Taxi and Limousine Commission:
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Monthly parquet files for 2023 were used in this project.
 
 ## Methodology
 
